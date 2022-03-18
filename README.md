@@ -1,6 +1,5 @@
-### Hi there,
+### Welcome!
 ![](https://visitor-badge.laobi.icu/badge?page_id=mreinke1.mreinke1)<br/>
-This is my github page. Languages that I use
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mreinke1&theme=dark)
 
