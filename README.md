@@ -9,4 +9,5 @@
 </h1>
 
 Here is a list of programming languages that I use.<br/>
-![TopLangs](https://github-readme-stats.vercel.app/api/top-langs/?username=mreinke1&layout=compact)](https://github.com/mreinke1/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mreinke1&theme=dark&layout=compact)
+
