@@ -1,4 +1,7 @@
-![Profile views](https://visitor-badge.laobi.icu/badge?page_id=mreinke1.mreinke1)<br/>
+<div align="center">
+    ![](https://visitor-badge.laobi.icu/badge?page_id=mreinke1.mreinke1)<br/>
+</div>
+
 
 <h1>
   Welcome!
