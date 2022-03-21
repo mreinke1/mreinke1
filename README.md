@@ -1,9 +1,7 @@
-<p align="center">
-    ![](https://visitor-badge.laobi.icu/badge?page_id=mreinke1.mreinke1)<br/>
-</p>
+![Profile views](https://visitor-badge.laobi.icu/badge?page_id=mreinke1.mreinke1)<br/>
 
 <h1>
-  hey there
+  Welcome!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
