@@ -1,7 +1,6 @@
-<p align="center">
-    <img width="80" height="20" src="https://visitor-badge.laobi.icu/badge?page_id=mreinke1.mreinke1">
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-MartinReinke-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/martin-reinke/)](https://www.linkedin.com/in/martin-reinke/)
 
+<img width="80" height="20" src="https://visitor-badge.laobi.icu/badge?page_id=mreinke1.mreinke1">
 
 <h1>
   Welcome!
