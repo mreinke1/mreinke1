@@ -2,7 +2,7 @@
 
 <h1>
   Welcome!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="250" height="250"/>
 </h1>
 
 Here is a list of programming languages that I use.<br/>
